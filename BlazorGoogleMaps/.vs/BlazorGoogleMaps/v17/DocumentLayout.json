@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C12AB1BD-F59C-4E79-BCC6-C18E4DAE82F6}|BlazorGoogleMaps\\BlazorGoogleMaps.csproj|c:\\users\\digdr\\documents\\coding\\blazorgooglemaps\\blazorgooglemaps\\blazorgooglemaps\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12AB1BD-F59C-4E79-BCC6-C18E4DAE82F6}|BlazorGoogleMaps\\BlazorGoogleMaps.csproj|solutionrelative:blazorgooglemaps\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12AB1BD-F59C-4E79-BCC6-C18E4DAE82F6}|BlazorGoogleMaps\\BlazorGoogleMaps.csproj|c:\\users\\digdr\\documents\\coding\\blazorgooglemaps\\blazorgooglemaps\\blazorgooglemaps\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C12AB1BD-F59C-4E79-BCC6-C18E4DAE82F6}|BlazorGoogleMaps\\BlazorGoogleMaps.csproj|solutionrelative:blazorgooglemaps\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12AB1BD-F59C-4E79-BCC6-C18E4DAE82F6}|BlazorGoogleMaps\\BlazorGoogleMaps.csproj|c:\\users\\digdr\\documents\\coding\\blazorgooglemaps\\blazorgooglemaps\\blazorgooglemaps\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12AB1BD-F59C-4E79-BCC6-C18E4DAE82F6}|BlazorGoogleMaps\\BlazorGoogleMaps.csproj|solutionrelative:blazorgooglemaps\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12AB1BD-F59C-4E79-BCC6-C18E4DAE82F6}|BlazorGoogleMaps\\BlazorGoogleMaps.csproj|c:\\users\\digdr\\documents\\coding\\blazorgooglemaps\\blazorgooglemaps\\blazorgooglemaps\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C12AB1BD-F59C-4E79-BCC6-C18E4DAE82F6}|BlazorGoogleMaps\\BlazorGoogleMaps.csproj|solutionrelative:blazorgooglemaps\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\BlazorGoogleMaps\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlazorGoogleMaps\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\BlazorGoogleMaps\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlazorGoogleMaps\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-08T18:11:20.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\BlazorGoogleMaps\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorGoogleMaps\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\BlazorGoogleMaps\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorGoogleMaps\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T17:38:16.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\BlazorGoogleMaps\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "BlazorGoogleMaps\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\BlazorGoogleMaps\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "BlazorGoogleMaps\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T17:14:51.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\BlazorGoogleMaps\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "BlazorGoogleMaps\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorGoogleMaps\\BlazorGoogleMaps\\BlazorGoogleMaps\\wwwroot\\script.js",
+              "RelativeToolTip": "BlazorGoogleMaps\\wwwroot\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-08T17:14:44.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

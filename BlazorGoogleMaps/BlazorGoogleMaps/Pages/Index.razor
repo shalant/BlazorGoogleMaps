@@ -1,0 +1,34 @@
+﻿@page "/"
+@inject IJSRuntime JSRuntime;
+
+<style>
+</style>
+
+<PageTitle>Index</PageTitle>
+
+
+Welcome to your new app.
+
+<div style="width:100%;" class="container">
+    <div class="row">
+        <div class="col-sm-12 btn-group" style="padding-top:10px;text-align:left;">
+            <input id="pac-input" class="searchBox" type="text" placeholder="Search Box"/>
+        </div>
+    </div>
+
+</div>
+
+<div id="map" style="height:90vh;width:100%;">
+
+</div>
+
+@code {
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("initialize", null);
+        }
+    }
+}
